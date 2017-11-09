@@ -61,7 +61,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 ### Introduction to Penetration Testing
 * [Penetration Test - Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
 * [The Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page)
-* [Getting Started with Web Application Penetration Testing](ttp://www.softwaretestinghelp.com/getting-started-with-web-application-penetration-testing/)
+* [Getting Started with Web Application Penetration Testing](http://www.softwaretestinghelp.com/getting-started-with-web-application-penetration-testing/)
 * [Pen-Test Monkey Cheat Sheets](http://pentestmonkey.net/category/cheat-sheet)
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 
