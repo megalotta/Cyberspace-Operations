@@ -81,6 +81,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Safer Shellcode Implants](https://labs.mwrinfosecurity.com/blog/safer-shellcode-implants/)
 * [How to use PowerShell Empire](https://null-byte.wonderhowto.com/how-to/use-powershell-empire-getting-started-with-post-exploitation-windows-hosts-0178664/)
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+* [How to use MSFVenom](https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom)
 * [SSH Port Forwarding/Tunneling](https://www.ssh.com/ssh/tunneling/example)
 
 ### Introduction to Exploit Development
