@@ -23,5 +23,15 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 ### Intrusion Analysis and Detection
 
 * [Linux Commands](http://linuxcommand.org/)
+* [Cisco Internetworking Basics](http://docwiki.cisco.com/wiki/Internetworking_Basics)
+* [Basic Internetworking](www.highteck.net/EN/Basic/Internetworking.html)
+* [Top 5 Network Routing Protocols Explained](https://www.lifewire.com/top-network-routing-protocols-explained-817965)
+* [The Cyber Kill Chain](https://www.lockheedmartin.com/us/what-we-do/aerospace-defense/cyber/cyber-kill-chain.html)
+* [Deconstructing The Cyber Kill Chain](https://www.darkreading.com/attacks-breaches/deconstructing-the-cyber-kill-chain/a/d-id/1317542?)
+* [Yara Documentation](https://yara.readthedocs.io/en/v3.6.0/)
+* [Yara User's Manual v1.6](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/yara-project/YARA%20User%27s%20Manual%201.6.pdf)
+
+
+
 
 
