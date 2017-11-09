@@ -50,3 +50,9 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [File Systems Overview](https://kb.wisc.edu/helpdesk/page.php?id=11300)
 * [Overview of FAT, HPFS, and NTFS File Systems](https://support.microsoft.com/en-au/help/100108/overview-of-fat--hpfs--and-ntfs-file-systems)
 
+### Cyber Deception
+* [Honeypots: The sweet spot in network security](https://www.computerworld.com/article/2573345/security0/honeypots--the-sweet-spot-in-network-security.html)
+* [Know your Enemy: Tracking Botnets](https://www.honeynet.org/papers/bots)
+* [The Honeynet Project](https://www.honeynet.org/)
+* [Best Tools to Perform Steganography](http://resources.infosecinstitute.com/steganography-and-tools-to-perform-steganography/#gref)
+
