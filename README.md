@@ -70,3 +70,9 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [The Python Tutorial](https://docs.python.org/2/tutorial/)
 * [Codecademy Python Course](https://www.codecademy.com/learn/learn-python)
 
+### Tactical Cyber Techniques
+* [Windows PowerShell Basics](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/windows-powershell-basics?view=powershell-5.1)
+* [PowerShell Owners Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
+* [Safer Shellcode Implants](https://labs.mwrinfosecurity.com/blog/safer-shellcode-implants/)
+* [How to use PowerShell Empire](https://null-byte.wonderhowto.com/how-to/use-powershell-empire-getting-started-with-post-exploitation-windows-hosts-0178664/)
+* [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
