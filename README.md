@@ -56,3 +56,17 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [The Honeynet Project](https://www.honeynet.org/)
 * [Best Tools to Perform Steganography](http://resources.infosecinstitute.com/steganography-and-tools-to-perform-steganography/#gref)
 
+## Red Module
+
+### Introduction to Penetration Testing
+* [Penetration Test - Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
+* [The Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page)
+* [Getting Started with Web Application Penetration Testing](ttp://www.softwaretestinghelp.com/getting-started-with-web-application-penetration-testing/)
+* [Pen-Test Monkey Cheat Sheets](http://pentestmonkey.net/category/cheat-sheet)
+* [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+
+### Introduction to Python Scripting
+* [Beginners Guide to Python](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+* [The Python Tutorial](https://docs.python.org/2/tutorial/)
+* [Codecademy Python Course](https://www.codecademy.com/learn/learn-python)
+
