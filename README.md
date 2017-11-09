@@ -31,6 +31,18 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Yara Documentation](https://yara.readthedocs.io/en/v3.6.0/)
 * [Yara User's Manual v1.6](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/yara-project/YARA%20User%27s%20Manual%201.6.pdf)
 
+### Wireless Security
+* [Introduction to Kali Linux](https://kali.training/introduction/introduction-to-kali-linux/)
+* [Wireless Security Protocols: WEP, WPA, and WPA2](www.dummies.com/computers/computer-networking/wireless/wireless-security-protocols-wep-wpa-and-wpa2/)
+* [How To Hack WPA/WPA2 Wi-Fi With Kali Linux & Aircrack-ng](http://lewiscomputerhowto.blogspot.com.au/2014/06/how-to-hack-wpawpa2-wi-fi-with-kali.html)
+* [RTL-SDR.com](https://www.rtl-sdr.com/)
+
+### Reverse Engineering
+* [x86 Instruction Set Reference](www.felixcloutier.com/x86/)
+* [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+* [C Programming Tutorial](http://www.learn-c.org/)
+* [Complete Tour of PE and ELF](http://resources.infosecinstitute.com/complete-tour-of-pe-and-elf-part-1/#gref)
+* [Malware Unicorn's Reverse Engineering Malware Workshops](https://securedorg.github.io/)
 
 
 
