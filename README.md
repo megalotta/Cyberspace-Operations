@@ -76,3 +76,19 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Safer Shellcode Implants](https://labs.mwrinfosecurity.com/blog/safer-shellcode-implants/)
 * [How to use PowerShell Empire](https://null-byte.wonderhowto.com/how-to/use-powershell-empire-getting-started-with-post-exploitation-windows-hosts-0178664/)
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+
+### Introduction to Exploit Development
+* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](www.opensecuritytraining.info/IntroX86.html)
+* [X86 Assembly/X86 Architecture](https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture)
+* [X86 Assembly/X86 Instructions](https://en.wikibooks.org/wiki/X86_Assembly/X86_Instructions)
+* [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+* [Buffer Overflows for Dummies - SANS Whitepaper](https://www.sans.org/reading-room/whitepapers/threats/buffer-overflows-dummies-481)
+* [Stack Based Overflows: Detect & Exploit](https://www.sans.org/reading-room/whitepapers/testing/stack-based-overflows-detect-exploit-1986)
+* [Windows Exploit Development](https://www.securitysift.com/windows-exploit-development-part-1-basics/)
+* [Exploit writing tutorial - Corelan](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+
+## Red vs Blue - Collective Module
+
+### Computer Network Operations
+
+### Network Security Operations
