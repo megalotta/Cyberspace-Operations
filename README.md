@@ -44,6 +44,9 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Complete Tour of PE and ELF](http://resources.infosecinstitute.com/complete-tour-of-pe-and-elf-part-1/#gref)
 * [Malware Unicorn's Reverse Engineering Malware Workshops](https://securedorg.github.io/)
 
-
-
+### Digital Forensics
+* [How Computer Forensics Works](https://computer.howstuffworks.com/computer-forensic.htm)
+* [Best of Computer Forensics Tutorials](www.hackingarticles.in/best-of-computer-forensics-tutorials/)
+* [File Systems Overview](https://kb.wisc.edu/helpdesk/page.php?id=11300)
+* [Overview of FAT, HPFS, and NTFS File Systems](https://support.microsoft.com/en-au/help/100108/overview-of-fat--hpfs--and-ntfs-file-systems)
 
