@@ -64,6 +64,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Getting Started with Web Application Penetration Testing](http://www.softwaretestinghelp.com/getting-started-with-web-application-penetration-testing/)
 * [Pen-Test Monkey Cheat Sheets](http://pentestmonkey.net/category/cheat-sheet)
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+* [Google Dorks/Google Hacking](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/)
 
 ### Introduction to Python Scripting
 * [Beginners Guide to Python](https://wiki.python.org/moin/BeginnersGuide/Programmers)
@@ -92,3 +93,58 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 ### Computer Network Operations
 
 ### Network Security Operations
+
+## Additional Material
+
+### General Information Security/Cyber Sites
+* [Cybrary](https://www.cybrary.it/)
+* [Hackers Handbook](http://hackershandbook.org/)
+* [Null-Byte](https://null-byte.wonderhowto.com/)
+* [SANS Blogs](https://www.sans.org/security-resources/blogs)
+* [SecurityTube](http://www.securitytube.net/)
+* [OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
+* [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html)
+* [Hacksplaining](https://www.hacksplaining.com/)
+
+### YouTube Channels
+* [OWASP](https://www.youtube.com/user/OWASPGLOBAL)
+* [Hak5](https://www.youtube.com/user/Hak5Darren)
+* [BlackHat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
+* [SecurityTubeCons](https://www.youtube.com/channel/UC2wNN-Zqiq4J1PLPnyMBWUg)
+* [DEFCON Conference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
+
+### Vulnerable OS/CTF Challenges
+* [Vulnhub](https://vulnhub.com)
+* [Pentestit](https://lab.pentestit.ru/)
+* [Hack The Box](https://www.hackthebox.eu/)
+* [CTFLearn](https://ctflearn.com/)
+* [Hack this site!](https://www.hackthissite.org/)
+* [SmashTheStack](http://smashthestack.org/wargames.html)
+* [Backdoor](https://backdoor.sdslabs.co)
+
+### Privilege Escalation
+* [Reach the root](https://hackmag.com/security/reach-the-root/)
+* [Basic linux privilege escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+* [Windows Privilege Escalation](http://www.bhafsec.com/wiki/index.php/Windows_Privilege_Escalation)
+* [Privilege escalation for Windows and Linux](https://github.com/AusJock/Privilege-Escalation)
+* [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
+* [RootHelper](https://github.com/NullArray/RootHelper)
+
+### Malware Analysis
+* [Malware traffic analysis](http://www.malware-traffic-analysis.net/)
+* [Malwr - Malware Sandbox](https://malwr.com/)
+* [Detux - Linux Sandbox](https://detux.org/)
+
+### Exploits
+* [Exploit Database](https://www.exploit-db.com/)
+* [CXsecurity](https://cxsecurity.com/exploit/)
+* [0day.today](http://0day.today/)
+* [Snyk Vulnerability DB](https://snyk.io/vuln/)
+
+### Online News Sources  
+* [Recent Hash Leaks](https://hashes.org/public.php)
+* [InfoSec](http://www.infosecurity-magazine.com/)
+* [Threatpost](https://threatpost.com/)
+* [Security Intell](https://securityintelligence.com/news/) 
+* [The Hacker News](https://thehackernews.com/)
+
