@@ -17,6 +17,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [ABC Four Corners – Power and Influence](http://www.abc.net.au/4corners/stories/2017/06/05/4678871.htm)
 * [ACSC Threat Report 2017 - Australian Cyber Security Centre](https://www.acsc.gov.au/publications/ACSC_Threat_Report_2017.pdf)
 * [ASD Essential Eight Explained](https://www.asd.gov.au/publications/protect/essential-eight-explained.htm)
+* [Have I Been Pwned?](https://haveibeenpwned.com/)
 * [Central Ops](https://centralops.net/)
 * [Shodan.io](https://www.shodan.io/)
 
@@ -108,6 +109,8 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 * [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html)
 * [Hacksplaining](https://www.hacksplaining.com/)
+* [Troy Hunt's Blog](https://www.troyhunt.com/)
+* [Bruce Schneier's Blog](https://www.schneier.com/)
 
 ### YouTube Channels
 * [OWASP](https://www.youtube.com/user/OWASPGLOBAL)
