@@ -161,4 +161,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * Blue Team Field Manual
 * The Hacker Playbook 2: Practical Guide To Penetration Testing.
 * Red Team: How to Succeed By Thinking Like the Enemy
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* Violent Python
+* Grey Hat Python
 
