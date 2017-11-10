@@ -156,3 +156,9 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Security Intell](https://securityintelligence.com/news/) 
 * [The Hacker News](https://thehackernews.com/)
 
+### Books
+* Red Team Field Manual
+* Blue Team Field Manual
+* The Hacker Playbook 2: Practical Guide To Penetration Testing.
+* Red Team: How to Succeed By Thinking Like the Enemy
+
