@@ -111,8 +111,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 * [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html)
 * [Hacksplaining](https://www.hacksplaining.com/)
-* [Troy Hunt's Blog](https://www.troyhunt.com/)
-* [Bruce Schneier's Blog](https://www.schneier.com/)
+
 
 ### YouTube Channels
 * [OWASP](https://www.youtube.com/user/OWASPGLOBAL)
@@ -129,6 +128,11 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Hack this site!](https://www.hackthissite.org/)
 * [SmashTheStack](http://smashthestack.org/wargames.html)
 * [Backdoor](https://backdoor.sdslabs.co)
+
+### Blogs
+* [Troy Hunt's Blog](https://www.troyhunt.com/)
+* [Bruce Schneier's Blog](https://www.schneier.com/)
+* [g0tmi1k's Blog](https://blog.g0tmi1k.com/)
 
 ### Privilege Escalation
 * [Reach the root](https://hackmag.com/security/reach-the-root/)
