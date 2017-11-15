@@ -97,6 +97,10 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 ## Red vs Blue - Collective Module
 
 ### Computer Network Operations
+* [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+* [Vulnhub](https://vulnhub.com)
+* [Metasploitable 3](https://github.com/rapid7/metasploitable3)
+* [The Seven Steps of a Successful Cyber Attack](resources.infosecinstitute.com/the-seven-steps-of-a-successful-cyber-attack/)
 
 ### Network Security Operations
 
