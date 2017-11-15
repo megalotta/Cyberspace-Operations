@@ -137,6 +137,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Troy Hunt's Blog](https://www.troyhunt.com/)
 * [Bruce Schneier's Blog](https://www.schneier.com/)
 * [g0tmi1k's Blog](https://blog.g0tmi1k.com/)
+* [abatchy's Blog](www.abatchy.com/)
 
 ### Privilege Escalation
 * [Reach the root](https://hackmag.com/security/reach-the-root/)
