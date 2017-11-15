@@ -20,6 +20,7 @@ The following is a collection of tools utilised throughout the Cyberspace Operat
 * [IDA Pro](https://www.hex-rays.com/products/ida/)
 * [Ollydbg](http://www.ollydbg.de/)
 * [GDB](https://www.gnu.org/software/gdb/)
+
 * [Weka 3](https://www.cs.waikato.ac.nz/ml/weka/)
 * [Cuckoo Sandbox](https://cuckoosandbox.org/)
 
@@ -57,6 +58,10 @@ The following is a collection of tools utilised throughout the Cyberspace Operat
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
 * [Empire Framework](https://github.com/EmpireProject/Empire)
 * [Throwback](https://github.com/silentbreaksec/Throwback)
+* [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+* [Nishang](https://github.com/samratashok/nishang)
+* [PowerTools](https://github.com/PowerShellEmpire/PowerTools)
+* [Posh-SecMod](https://github.com/darkoperator/Posh-SecMod)
 
 
 ### Introduction to Exploit Development
