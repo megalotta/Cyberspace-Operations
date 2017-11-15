@@ -1,4 +1,4 @@
-# Cyberspace-Operations
+# Cyberspace Operations
 Learning resources for students intending to undertake a Cyberspace Operations course. These online resources will be beneficial to students as pre-course reading as well as a resource for students who have completed the course to review materials and expand their learning.
 
 ## Blue Module
