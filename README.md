@@ -104,6 +104,8 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 
 ### Network Security Operations
 * [Security Focus](http://www.securityfocus.com/)
+* [Ultimate Guide to Installing Security Onion with Snort and Snorby](https://www.drchaos.com/ultimate-guide-to-installing-security-onion-with-snort-and-snorby/)
+* [Windows AppLocker](https://technet.microsoft.com/en-us/library/dd759117(v=ws.11).aspx)
 
 ## Additional Material
 
