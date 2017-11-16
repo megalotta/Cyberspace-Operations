@@ -106,6 +106,10 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Security Focus](http://www.securityfocus.com/)
 * [Ultimate Guide to Installing Security Onion with Snort and Snorby](https://www.drchaos.com/ultimate-guide-to-installing-security-onion-with-snort-and-snorby/)
 * [Windows AppLocker](https://technet.microsoft.com/en-us/library/dd759117(v=ws.11).aspx)
+* [Structured Threat Information eXpression (STIX)](https://stixproject.github.io/)
+* [Trusted Automated eXchange of Indicator Information (TAXII)](https://taxiiproject.github.io/)
+* [Cyber Observable eXpression (CybOX)](https://cybox.mitre.org/about/)
+* [How STIX, TAXII and CybOX Can Help With Standardizing Threat Information](https://securityintelligence.com/how-stix-taxii-and-cybox-can-help-with-standardizing-threat-information/)
 
 ## Additional Material
 
