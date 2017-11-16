@@ -64,6 +64,7 @@ The following is a collection of tools utilised throughout the Cyberspace Operat
 * [PowerTools](https://github.com/PowerShellEmpire/PowerTools)
 * [Posh-SecMod](https://github.com/darkoperator/Posh-SecMod)
 * [XFLTReat](https://github.com/earthquake/XFLTReaT)
+* [Veil Framework](https://github.com/Veil-Framework/Veil)
 
 ### Introduction to Exploit Development
 * [GDB](https://www.gnu.org/software/gdb/)
