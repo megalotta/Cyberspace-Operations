@@ -103,6 +103,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [The Seven Steps of a Successful Cyber Attack](resources.infosecinstitute.com/the-seven-steps-of-a-successful-cyber-attack/)
 
 ### Network Security Operations
+* [Security Focus](http://www.securityfocus.com/)
 
 ## Additional Material
 
@@ -164,6 +165,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Threatpost](https://threatpost.com/)
 * [Security Intell](https://securityintelligence.com/news/) 
 * [The Hacker News](https://thehackernews.com/)
+* [Security Focus](http://www.securityfocus.com/)
 
 ### Books
 * [Red Team Field Manual](http://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/)
