@@ -82,6 +82,8 @@ The following is a collection of tools utilised throughout the Cyberspace Operat
 * [Snort](https://www.snort.org/)
 * [Bro - Netwrok Security Monitor](https://www.bro.org/)
 * [Squil](http://bammv.github.io/sguil/index.html)
+* [Squert](http://www.squertproject.org/)
+* [Snorby](https://github.com/Snorby/snorby)
 * [AlienValut OSSIM](https://www.alienvault.com/products/ossim)
 * [OSSEC](https://ossec.github.io/)
 
