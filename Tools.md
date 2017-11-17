@@ -90,7 +90,7 @@ The following is a collection of tools utilised throughout the Cyberspace Operat
 ## Operating Systems
 * [Kali Linux](https://www.kali.org/)
 * [Security Onion](https://securityonion.net/)
-* [AlienValut OSSIM](https://www.alienvault.com/products/ossim)
+* [AlienVault OSSIM](https://www.alienvault.com/products/ossim)
 * [REMnux](https://remnux.org/)
 * [Ubuntu](https://www.ubuntu.com/)
 * [Fedora](https://getfedora.org/)
