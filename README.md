@@ -110,6 +110,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Trusted Automated eXchange of Indicator Information (TAXII)](https://taxiiproject.github.io/)
 * [Cyber Observable eXpression (CybOX)](https://cybox.mitre.org/about/)
 * [How STIX, TAXII and CybOX Can Help With Standardizing Threat Information](https://securityintelligence.com/how-stix-taxii-and-cybox-can-help-with-standardizing-threat-information/)
+* [Snort Users Manaual](https://s3.amazonaws.com/snort-org-site/production/document_files/files/000/000/129/original/snort_manual.pdf?AWSAccessKeyId=AKIAIXACIED2SPMSC7GA&Expires=1510891669&Signature=42WSWhdT58buOCsKpiH7jJDkpzU%3D)
 
 ## Additional Material
 
