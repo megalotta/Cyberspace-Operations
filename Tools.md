@@ -23,6 +23,7 @@ The following is a collection of tools utilised throughout the Cyberspace Operat
 * [Weka 3](https://www.cs.waikato.ac.nz/ml/weka/)
 * [Cuckoo Sandbox](https://cuckoosandbox.org/)
 
+
 ### Digital Forensics
 * [WinHex](https://www.x-ways.net/winhex/)
 * [Volatility](http://www.volatilityfoundation.org/)
@@ -81,10 +82,13 @@ The following is a collection of tools utilised throughout the Cyberspace Operat
 * [Snort](https://www.snort.org/)
 * [Bro - Netwrok Security Monitor](https://www.bro.org/)
 * [Squil](http://bammv.github.io/sguil/index.html)
+* [AlienValut OSSIM](https://www.alienvault.com/products/ossim)
+* [OSSEC](https://ossec.github.io/)
 
 ## Operating Systems
 * [Kali Linux](https://www.kali.org/)
 * [Security Onion](https://securityonion.net/)
+* [AlienValut OSSIM](https://www.alienvault.com/products/ossim)
 * [REMnux](https://remnux.org/)
 * [Ubuntu](https://www.ubuntu.com/)
 * [Fedora](https://getfedora.org/)
