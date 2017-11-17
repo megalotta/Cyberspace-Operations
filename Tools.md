@@ -84,6 +84,7 @@ The following is a collection of tools utilised throughout the Cyberspace Operat
 * [Squil](http://bammv.github.io/sguil/index.html)
 * [Squert](http://www.squertproject.org/)
 * [Snorby](https://github.com/Snorby/snorby)
+* [ELSA](https://github.com/mcholste/elsa)
 * [AlienValut OSSIM](https://www.alienvault.com/products/ossim)
 * [OSSEC](https://ossec.github.io/)
 
