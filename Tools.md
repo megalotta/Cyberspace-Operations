@@ -9,7 +9,6 @@ The following is a collection of tools utilised throughout the Cyberspace Operat
 ### Intrusion Analysis and Detection
 * [Wireshark](https://www.wireshark.org/)
 
-
 ### Wireless Security
 * [Aircrack-ng](https://www.aircrack-ng.org/)
 * [Mana Toolkit](https://github.com/sensepost/mana)
@@ -78,10 +77,14 @@ The following is a collection of tools utilised throughout the Cyberspace Operat
 * [nmap](https://nmap.org/)
 
 ### Network Security Operations
-
+* [Security Onion](https://securityonion.net/)
+* [Snort](https://www.snort.org/)
+* [Bro - Netwrok Security Monitor](https://www.bro.org/)
+* [Squil](http://bammv.github.io/sguil/index.html)
 
 ## Operating Systems
 * [Kali Linux](https://www.kali.org/)
+* [Security Onion](https://securityonion.net/)
 * [REMnux](https://remnux.org/)
 * [Ubuntu](https://www.ubuntu.com/)
 * [Fedora](https://getfedora.org/)
