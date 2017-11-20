@@ -125,6 +125,26 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html)
 * [Hacksplaining](https://www.hacksplaining.com/)
 
+### Cheat Sheets
+* [Penetration Testing Tools](http://web.archive.org/web/20170812205439/https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+* [NetBIOS Scan](https://highon.coffee/blog/nbtscan-cheat-sheet/)
+* [Reverse Shell](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
+* [nmap](https://highon.coffee/blog/nmap-cheat-sheet/)
+* [Linux Commands](https://highon.coffee/blog/linux-commands-cheat-sheet/)
+* [Metasploit](http://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
+* [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)
+* [Netcat](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
+* [Wireshark Filters](http://packetlife.net/media/library/13/Wireshark_Display_Filters.pdf)
+* [Scapy](http://packetlife.net/media/library/36/scapy.pdf)
+* [tcpdump](http://packetlife.net/media/library/12/tcpdump.pdf)
+* [Common Ports](http://packetlife.net/media/library/23/common_ports.pdf)
+* [IPv4 Subnetting](http://packetlife.net/media/library/15/IPv4_Subnetting.pdf)
+* [PowerShell Empire](https://github.com/HarmJ0y/CheatSheets/blob/master/Empire.pdf)
+* [PowerSploit](https://github.com/HarmJ0y/CheatSheets/blob/master/PowerSploit.pdf)
+* [Security Onion](http://chrissanders.org/SO-CheatSheet.pdf)
+* [Remnux Malware Analysis](https://zeltser.com/media/docs/remnux-malware-analysis-tips.pdf)
+* [Reverse Engineering](http://r00ted.com/cheat%20sheet%20reverse%20v5.png)
+* [VIM](https://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.pdf)
 
 ### YouTube Channels
 * [OWASP](https://www.youtube.com/user/OWASPGLOBAL)
