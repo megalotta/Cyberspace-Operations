@@ -112,6 +112,13 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [How STIX, TAXII and CybOX Can Help With Standardizing Threat Information](https://securityintelligence.com/how-stix-taxii-and-cybox-can-help-with-standardizing-threat-information/)
 * [Snort Users Manaual](https://s3.amazonaws.com/snort-org-site/production/document_files/files/000/000/129/original/snort_manual.pdf?AWSAccessKeyId=AKIAIXACIED2SPMSC7GA&Expires=1510891669&Signature=42WSWhdT58buOCsKpiH7jJDkpzU%3D)
 * [Packet Life](http://packetlife.net/)
+* [Blue Team Training Toolkit](https://www.bt3.no/)
+
+### Red vs Blue Activity
+* [Red team versus blue team: How to run an effective simulation](https://www.csoonline.com/article/2122440/disaster-recovery/emergency-preparedness-red-team-versus-blue-team-how-to-run-an-effective-simulation.html)
+* [Blue Team Defender Guide](https://cyber-defense.sans.org/blog/2009/08/12/blue-team-defender-guide-cyber-war-games)
+* [Teaching Network Security Through Live Exercises](https://ictf.cs.ucsb.edu/pdfs/2003_WISE_iCTF.pdf)
+* [CTF Field Guide](https://trailofbits.github.io/ctf/)
 
 ## Additional Material
 
