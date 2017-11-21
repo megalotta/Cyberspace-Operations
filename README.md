@@ -47,6 +47,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [C Programming Tutorial](http://www.learn-c.org/)
 * [Complete Tour of PE and ELF](http://resources.infosecinstitute.com/complete-tour-of-pe-and-elf-part-1/#gref)
 * [Malware Unicorn's Reverse Engineering Malware Workshops](https://securedorg.github.io/)
+* [Basic Reverse Engineering with Immunity Debugger](https://www.sans.org/reading-room/whitepapers/malicious/basic-reverse-engineering-immunity-debugger-36982)
 
 ### Digital Forensics
 * [How Computer Forensics Works](https://computer.howstuffworks.com/computer-forensic.htm)
