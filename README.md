@@ -145,6 +145,9 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Remnux Malware Analysis](https://zeltser.com/media/docs/remnux-malware-analysis-tips.pdf)
 * [Reverse Engineering](http://r00ted.com/cheat%20sheet%20reverse%20v5.png)
 * [VIM](https://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.pdf)
+* [DFIR Linux Shell Survival Guide](https://wiki.sans.blue/Tools/pdfs/linux-shell-survival-guide.pdf)
+* [Powershell](https://wiki.sans.blue/Tools/pdfs/PowerShellCheatSheet_v41.pdf)
+* [Windows Command Line](https://wiki.sans.blue/Tools/pdfs/windows-command-line-sheet.pdf)
 
 ### YouTube Channels
 * [OWASP](https://www.youtube.com/user/OWASPGLOBAL)
