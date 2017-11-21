@@ -116,8 +116,8 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 
 ### Red vs Blue Activity
 * [Red team versus blue team: How to run an effective simulation](https://www.csoonline.com/article/2122440/disaster-recovery/emergency-preparedness-red-team-versus-blue-team-how-to-run-an-effective-simulation.html)
-* [Blue Team Defender Guide](https://cyber-defense.sans.org/blog/2009/08/12/blue-team-defender-guide-cyber-war-games)
 * [Teaching Network Security Through Live Exercises](https://ictf.cs.ucsb.edu/pdfs/2003_WISE_iCTF.pdf)
+* [Blue Team Defender Guide](https://cyber-defense.sans.org/blog/2009/08/12/blue-team-defender-guide-cyber-war-games)
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
 
 ## Additional Material
