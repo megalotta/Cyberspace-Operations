@@ -70,7 +70,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Pen-Test Monkey Cheat Sheets](http://pentestmonkey.net/category/cheat-sheet)
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 * [Google Dorks/Google Hacking](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/)
-* [SecLists - The Pentesers Companion](https://github.com/danielmiessler/SecLists)
+* [SecLists - The Pentesters Companion](https://github.com/danielmiessler/SecLists)
 
 ### Introduction to Python Scripting
 * [Beginners Guide to Python](https://wiki.python.org/moin/BeginnersGuide/Programmers)
