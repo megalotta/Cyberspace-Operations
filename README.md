@@ -123,6 +123,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Blue Team Defender Guide](https://cyber-defense.sans.org/blog/2009/08/12/blue-team-defender-guide-cyber-war-games)
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
 * [Splunk](https://www.splunk.com/)
+* [Splunk Education](https://www.splunk.com/view/education/SP-CAAAAH9)
 
 ## Additional Material
 
