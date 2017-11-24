@@ -85,6 +85,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 * [How to use MSFVenom](https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom)
 * [SSH Port Forwarding/Tunneling](https://www.ssh.com/ssh/tunneling/example)
+* [GNU Privacy Guard](https://www.gnupg.org/)
 
 ### Introduction to Exploit Development
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](www.opensecuritytraining.info/IntroX86.html)
@@ -121,6 +122,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Teaching Network Security Through Live Exercises](https://ictf.cs.ucsb.edu/pdfs/2003_WISE_iCTF.pdf)
 * [Blue Team Defender Guide](https://cyber-defense.sans.org/blog/2009/08/12/blue-team-defender-guide-cyber-war-games)
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
+* [Splunk](https://www.splunk.com/)
 
 ## Additional Material
 
