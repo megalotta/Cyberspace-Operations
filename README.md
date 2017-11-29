@@ -136,6 +136,8 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 * [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html)
 * [Hacksplaining](https://www.hacksplaining.com/)
+* [Fuzzy Security](http://www.fuzzysecurity.com/index.html)
+* [Reboot User](https://www.rebootuser.com/)
 
 ### Cheat Sheets
 * [Penetration Testing Tools](http://web.archive.org/web/20170812205439/https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
@@ -191,6 +193,7 @@ Learning resources for students intending to undertake a Cyberspace Operations c
 * [Privilege escalation for Windows and Linux](https://github.com/AusJock/Privilege-Escalation)
 * [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
 * [RootHelper](https://github.com/NullArray/RootHelper)
+* [Attack and Defend: Linux Privilege Escalation Techniques of 2016](https://www.sans.org/reading-room/whitepapers/testing/attack-defend-linux-privilege-escalation-techniques-2016-37562)
 
 ### Malware Analysis
 * [Malware traffic analysis](http://www.malware-traffic-analysis.net/)
