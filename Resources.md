@@ -9,6 +9,9 @@ For now, they are just being placed on the page and out of my email. Eventually 
 ## Recon
 * [SSL Server Test](https://www.ssllabs.com/ssltest/)
 * [Censys](https://censys.io/)
+* [Sublist3r](https://github.com/aboul3la/Sublist3r)
+* [DNS Dumpster](https://dnsdumpster.com/)
+* [Cloudflare Enum](https://github.com/mandatoryprogrammer/cloudflare_enum)
 
 ## Enumeration
 * [Basic Services Enumeration](http://www.0daysecurity.com/penetration-testing/enumeration.html)
@@ -19,10 +22,21 @@ For now, they are just being placed on the page and out of my email. Eventually 
 * [Reverse Shell Cheatsheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 
 ## Web Application Security
+* [The Bug Hunters Methodology v2.1](https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit#slide=id.p)
 * [PHP Filter LFI](https://www.idontplaydarts.com/2011/02/using-php-filter-for-local-file-inclusion/)
 * http://securityidiots.com/Web-Pentest
 * [OWASP Check List](https://github.com/tanprathan/OWASP-Testing-Checklist)
 * [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+* [Wappalyzer](https://www.wappalyzer.com/)
+* [Parameth](https://github.com/maK-/parameth) - Brute Force GET and POST parameters
+* [Sleepy Puppy](https://github.com/Netflix/sleepy-puppy)
+* [XSS Hunter](https://xsshunter.com/)
+* [Commix](https://github.com/commixproject/commix)
+* [Bucket Finder](https://digi.ninja/projects/bucket_finder.php)
+
+## Burp Suite Pluggins
+* [Vulners](https://github.com/vulnersCom/burp-vulners-scanner)
+* [Retire.js](https://github.com/h3xstream/burp-retire-js)
 
 ## Linux Privilege Escalation
 * https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation
