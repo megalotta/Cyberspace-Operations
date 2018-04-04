@@ -3,6 +3,9 @@ A collection of links that I have saved over the years that are useful.
 
 For now, they are just being placed on the page and out of my email. Eventually this will all be categorised.
 
+## Unsorted
+* https://github.com/rmusser01/Infosec_Reference
+
 ## Recon
 * [SSL Server Test](https://www.ssllabs.com/ssltest/)
 * [Censys](https://censys.io/)
@@ -18,6 +21,8 @@ For now, they are just being placed on the page and out of my email. Eventually 
 ## Web Application Security
 * [PHP Filter LFI](https://www.idontplaydarts.com/2011/02/using-php-filter-for-local-file-inclusion/)
 * http://securityidiots.com/Web-Pentest
+* [OWASP Check List](https://github.com/tanprathan/OWASP-Testing-Checklist)
+* [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
 ## Linux Privilege Escalation
 * https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation
@@ -40,6 +45,9 @@ For now, they are just being placed on the page and out of my email. Eventually 
 * https://jhalon.github.io/OSCP-Review/
 * http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/
 
+## Exploit Dev
+* https://netsec.ws/?p=262
+
 ## Android Dev
 * https://github.com/toddmotto/public-apis/blob/master/README.md
 * https://kylewbanks.com/blog/Tutorial-Android-Parsing-JSON-with-GSON
@@ -54,6 +62,3 @@ For now, they are just being placed on the page and out of my email. Eventually 
 * https://github.com/adon90/pentest_compilation
 * https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/
 
-
-* https://netsec.ws/?p=262
-* 
